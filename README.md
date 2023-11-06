@@ -72,4 +72,4 @@ Usage
 Given the limitations and unknowns regarding the first dataset's origins, collection methodology, and update frequency, conclusions drawn from analyses and models built using this dataset should be treated with caution. 
 This project is primarily intended for educational and exploratory purposes and might not fully encapsulate the nuances of real-world laptop pricing dynamics.
 
-(I will provide here a link with other databases and for the next versions of this project.)
+(I will provide here or on my GitHub profile a link with other databases and for the next versions of this project.)
