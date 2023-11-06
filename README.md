@@ -1,12 +1,12 @@
 # MidtermProjectMLZoomcamp
 
 Brief Description
+
 This project builds a machine learning model to predict laptop prices based on their specifications.
 
 
 
 Detailed description
-
 
 This project aims to predict the prices of laptops based on a preliminary dataset (from Kaggle, which will be supplemented by at least another comprehensive one created by myself or found on the internet) that includes various specifications such as brand, model, type, screen size, resolution, CPU, RAM, memory, operating system, and weight. This tool is designed to aid consumers, retailers, and manufacturers in understanding the price dynamics in the laptop market and making informed decisions.
 
@@ -16,7 +16,9 @@ My passion for technology also motivated me to create a tool that can help indiv
 This tool can assist users in selecting the right laptop based on key features and price points. 
 Furthermore, when perfected and brought to completion it can serve as a valuable asset for organizations to strategize their IT expenditures and upgrade cycles, offering insights into optimal timing for technology refreshes. Additionally, retailers, and e-commerce platforms can leverage this model for effective inventory management, dynamic pricing, and market trend analysis, enhancing their ability to provide personalized recommendations and to segment the market strategically.
 
+
 Metadata of the first dataset
+
 Source Information
 Origin: The dataset  was found on Kaggle, a popular platform for data science projects and competitions. However, the original source of how the data was collected or compiled is not specified on the platform.
 Credibility: Due to the lack of detailed source information, the credibility and accuracy of the data cannot be independently verified against official product listings or manufacturer data. Users of this project should be aware that the dataset might not fully represent the current market or all segments of the laptop industry. 
@@ -26,6 +28,7 @@ Expected Update Frequency: The dataset is static and there are no indications of
 Methodology: The methodology used for data collection is not mentioned. Therefore, aspects such as data collection techniques, data cleansing processes, or any biases that might have been introduced during the data collection process are unknown.
 
 Metadata of the others datasets: to be updated 
+
 
 Description of Features
 Company/Brand: The manufacturer of the laptop.
