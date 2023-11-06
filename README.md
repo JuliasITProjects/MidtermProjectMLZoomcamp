@@ -59,7 +59,7 @@ Ownership:
 The first dataset used in this project is hosted on Kaggle, a popular platform for data science competitions and datasets. The specific ownership of the dataset is not clearly stated on Kaggle. Therefore, it is assumed to be the intellectual property of the individual or organization that uploaded it to Kaggle.
 
 Access: 
-The dataset is publicly available on Kaggle, allowing anyone registered on the platform to access and use it. This accessibility suggests that the dataset can be freely used for educational and research purposes. However, users should exercise caution and consider seeking permission for commercial use.
+The first dataset is publicly available on Kaggle ( https://www.kaggle.com/datasets/muhammetvarl/laptop-price ), allowing anyone registered on the platform to access and use it. This accessibility suggests that the dataset can be freely used for educational and research purposes. However, users should exercise caution and consider seeking permission for commercial use.
 
 Privacy: 
 Due to the lack of detailed information about the dataset's collection and composition, it's unclear whether any personal or sensitive information is included. It is assumed that the dataset does not contain any personal data, as Kaggle typically hosts datasets that are suitable for public use. However, this cannot be confirmed due to the absence of explicit privacy details.
